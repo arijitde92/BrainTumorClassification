@@ -23,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Histopathology_Classification" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BrainTumorClassification_Original" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -70,6 +70,7 @@
       <updated>1650705091419</updated>
       <workItem from="1650705092873" duration="2239000" />
       <workItem from="1650707889250" duration="7839000" />
+      <workItem from="1650775501849" duration="65000" />
     </task>
     <servers />
   </component>
